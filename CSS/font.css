@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-family: "Press Start 2P", "consolas", "sant-serif";
+}
+p{
+    color: #00ff73;
+    font-family: "consolas", "sant-serif";
+    font-style: italic;
+    font-size: bold;
+    text-decoration: cyan dotted underline;
+    font-size: 18px;
+}
